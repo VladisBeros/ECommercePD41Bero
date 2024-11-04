@@ -1,0 +1,1 @@
+$(".catalog__slider").slick({dots:!0,infinite:!0,speed:250,fade:!0,cssEase:"linear"});

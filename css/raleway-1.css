@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Raleway';
+    src: local('Raleway Regular'), local('Raleway-Regular'), url('ralewayregular.woff2') format('woff2'), url('ralewayregular.woff') format('woff'), url('ralewayregular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: local('Raleway Medium'), local('Raleway-Medium'), url('ralewaymedium.woff2') format('woff2'), url('ralewaymedium.woff') format('woff'), url('ralewaymedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: local('Raleway Bold'), local('Raleway-Bold'), url('ralewaybold.woff2') format('woff2'), url('ralewaybold.woff') format('woff'), url('ralewaybold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: local('Raleway Black'), local('Raleway-Black'), url('ralewayblack.woff2') format('woff2'), url('ralewayblack.woff') format('woff'), url('ralewayblack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gotham Pro';
+    src: local('Gotham Pro Black'), local('Gotham-Pro-Black'),
+        url('GothamPro-Black.woff2') format('woff2'),
+        url('GothamPro-Black.woff') format('woff'),
+        url('GothamPro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
